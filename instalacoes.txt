@@ -1,0 +1,4 @@
+1- npm install expresss;
+2- npm isntall mysql2;
+3-npm install bCrypt;
+40 npm install jsonwebtoken;
